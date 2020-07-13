@@ -1,0 +1,21 @@
+{
+  "name": "hjj-opensource-study",
+  "version": "1.0.0",
+  "description": "hjj-opensource-study",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeerGum/opensource_study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeerGum/opensource_study/issues"
+  },
+  "homepage": "https://github.com/DeerGum/opensource_study#readme",
+  "dependencies": {}
+}
